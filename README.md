@@ -22,4 +22,4 @@ Love to explore new tools, libraries and leverage them to solve real-life proble
 
 ### Familiarity with
 
-<img width="250px" src="https://skillicons.dev/icons?i=jest,sass,js,ts,react,redux,electron,alpinejs,astro,jquery,vercel,figma,bash,php,docker,wordpress&perline=8">
+<img width="270px" src="https://skillicons.dev/icons?i=jest,sass,js,ts,react,redux,electron,alpinejs,astro,jquery,vercel,figma,bash,php,docker,wordpress&perline=8">
