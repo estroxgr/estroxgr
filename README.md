@@ -5,7 +5,6 @@ I'm **junior Front-end Developer / UI Designer** from Athens. </br>
 Love to explore new tools, libraries and leverage them to solve real-life problems.<br/>
 
 
-
 ### Let's Talk
 
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="Find me on Linkedin" width="28"/>](https://linkedin.com/in/estroxgr)
@@ -15,8 +14,6 @@ Love to explore new tools, libraries and leverage them to solve real-life proble
 [<img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Sen me a email" width="28"/>](mailto:alexanastagr@gmail.com)
 
 
-
-### 
 ### Talking about Personal Stuffs.
 
 - Currently learning React Native and OAuth2
@@ -25,3 +22,4 @@ Love to explore new tools, libraries and leverage them to solve real-life proble
 
 ### Familiarity with
 
+<img width="230px" src="https://skillicons.dev/icons?i=jest,sass,js,ts,react,redux,electron,alpinejs,astro,jquery,vercel,figma,bash,php,docker,wordpress&perline=8">
